@@ -1,0 +1,46 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    }  
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Vassoura Slim Pisos",
+      "price": 17.9,
+      "image": "https://cdn.awsli.com.br/600x1000/153/153933/produto/20224234/40d494a385.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Rodo Plástico 40cm",
+      "price": 12.9,
+      "image": "https://makrofs.com.br/medias/698051-600x600-ON-2.jpg?context=bWFzdGVyfGltYWdlc3wxMzg3M3xpbWFnZS9qcGVnfGltYWdlcy9oMGMvaDY2Lzg4Mjk2NzQ5NDY1OTAuanBnfGFiMTZhNGMwOTVkMTYxYzI0YjMyMzYwYjI3NDdiNGRjMjhhM2FjNTJmNzI0NWNiNTU4ZWM4NmIwYmMwNjFmMzI"
+    },
+    {
+      "id": 3,
+      "title": "Pazinha de Lixo Plástica Comum",
+      "price": 21.9,
+      "image": "https://jmembalagens.com/wp-content/uploads/2019/01/PAZINHA-DE-LIXO-PLASTICA-COMUM-D-011.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cesto de Lixo Telado 10 Litros Redondo",
+      "price": 39.9,
+      "image": "https://cdn.iset.io/assets/48768/produtos/5981/thumb_600-600-nf00004.jpg"
+    }
+  ]
+}
